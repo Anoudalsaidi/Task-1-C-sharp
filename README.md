@@ -36,6 +36,4 @@ It focuses on basic concepts such as:
 - .NET Console Application
 - Object-Oriented Programming (Basic Level)
 
----
 
-## 📁 Project Structure
