@@ -1,39 +1,56 @@
 # 🧩 Task 1 - C# Basics Project
 
-<p align="center">
-  <b>Simple C# Task Project demonstrating fundamental programming concepts</b><br>
-  Built as part of C# learning journey to practice OOP and basic logic.
-</p>
+A simple C# console application built to practice fundamental programming concepts and strengthen problem-solving skills.
+
+Built as part of a C# learning journey to understand the basics of programming and Object-Oriented Programming (OOP).
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project is a simple **C# console application** created to practice and understand the fundamentals of programming in C#.
+This project demonstrates the core concepts of C# programming, including:
 
-It focuses on basic concepts such as:
-- Variables and Data Types
-- Conditional Statements
-- Loops
-- Basic Object-Oriented Programming
-- Console Input/Output
+* Variables and Data Types
+* Conditional Statements
+* Loops and Iteration
+* User Input and Output
+* Basic Object-Oriented Programming
 
----
-
-## 🎯 Key Features
-
-- 🧠 Basic C# syntax practice  
-- 🔁 Loops (for / while)  
-- ❓ Conditional statements (if / else)  
-- 📥 User input handling  
-- 📤 Console output display  
+The application provides hands-on practice with essential programming logic and console-based interaction.
 
 ---
 
-## 🏗️ Tech Stack
+## 🚀 Features
 
-- C#
-- .NET Console Application
-- Object-Oriented Programming (Basic Level)
+* 🧠 Basic C# syntax practice
+* 🔁 Loops (for / while)
+* ❓ Conditional statements (if / else)
+* 📥 User input handling
+* 📤 Console output display
+* 🏗️ Basic OOP implementation
 
+---
 
+## 🔧 Technologies Used
+
+* C#
+* .NET Console Application
+* Object-Oriented Programming (OOP)
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I practiced:
+
+* Writing and organizing C# code
+* Implementing program logic
+* Using loops and conditions
+* Working with user input and output
+* Understanding basic OOP concepts
+
+---
+
+## 👩‍💻 Author
+
+**Anoud Alsaidi**
